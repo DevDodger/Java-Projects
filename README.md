@@ -1,2 +1,5 @@
 # Java-Projects
-Java school projects
+######
+Java projects for school.
+######
+This will be updated pretty often.
